@@ -1,0 +1,7 @@
+Anakin Skywalker|61 Number is Invalid|45|210000|M|2
+Obi Wan|40|22|80000|S|-1 Number is Invalid
+Luke Skywalker|50|50|185000|L Relationship status must me single(s) or married(m)|1
+JarrJarr Binks|-2 Number is Invalid|10|18500|M|3
+Master Yoda|56|40|189000|S|-1 Number is Invalid
+Mace Windu|18|-1 Number is less than zero|110000|S|1
+name is blank|18|40|110000|S|1

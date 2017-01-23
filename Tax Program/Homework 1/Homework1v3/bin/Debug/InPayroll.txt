@@ -1,0 +1,14 @@
+Anakin Skywalker|61|45|210000|M|2
+Obi Wan|40|22|80000|S|-1
+Darth Maul|35|22|67500|S|2
+Luke Skywalker|50|50|185000|L|1
+Jango Fett|42|47|121000|S|2
+Padme Amidalla|38|39|79000|M|2
+R2 D2|18|60|68500|S|1
+C3 PO|2|35|24000|S|1
+Boba Fett|52|55|99000|S|1
+JarrJarr Binks|-2|10|18500|M|3
+Master Yoda|56|40|189000|S|-1
+Mace Windu|18|-1|110000|S|1
+|18|40|110000|S|1
+

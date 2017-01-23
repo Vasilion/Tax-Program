@@ -1,0 +1,18 @@
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\bin\Debug\Homework1v3.exe.config
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\bin\Debug\Homework1v3.exe
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\bin\Debug\Homework1v3.pdb
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\obj\Debug\Homework1v3.Properties.Resources.resources
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\obj\Debug\Homework1v3.csproj.GenerateResource.Cache
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\obj\Debug\Homework1v3.exe
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\obj\Debug\Homework1v3.pdb
+c:\users\vasiliol\documents\visual studio 2015\Projects\Homework1v3\Homework1v3\obj\Debug\Homework1v3.Form1.resources
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework1v3\Homework1v3\obj\Debug\Homework1v3.csprojResolveAssemblyReference.cache
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\bin\Debug\Homework1v3.exe.config
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\obj\Debug\Homework1v3.exe
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\obj\Debug\Homework1v3.pdb
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\bin\Debug\Homework1v3.exe
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\bin\Debug\Homework1v3.pdb
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\obj\Debug\Homework1v3.csprojResolveAssemblyReference.cache
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\obj\Debug\Homework1v3.Form1.resources
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\obj\Debug\Homework1v3.Properties.Resources.resources
+C:\Users\vasiliol\Documents\Visual Studio 2015\Projects\Homework 1\Homework1v3\obj\Debug\Homework1v3.csproj.GenerateResource.Cache
