@@ -1,0 +1,9 @@
+Anakin Skywalker|61 Number is above60|45|210000|M|2
+Obi Wan|40|22|-80000 Number is less than zero|S|1
+Darth Maul|-1 Number is below zero|22|67500|S|2
+Luke Skywalker|50|50|185000|L Relationship status must me single(s) or married(m)|1
+Boba Fett| field is blank|55|99000|S|1
+JarrJarr Binks|2|10|18500|M|-3 Number is below zero
+Master Yoda|56|40|189000|S|-1 Number is below zero
+Mace Windu|18|-1 Number is less than zero|110000|S|1
+ field is blank|18|40|110000|S|1

@@ -20,7 +20,7 @@ namespace Homework1v3
         public static bool IsPresent(ref string str)
         {
             if (str == "") {
-                str += (" name is blank");
+                str += (" field is blank");
                 return false;
             }
             else
@@ -39,9 +39,14 @@ namespace Homework1v3
         {
             decimal result;
             Decimal.TryParse(str,out result);
-            if (result < low || result > high)
+            if (result < low)
             {
-                str += " Number is Invalid";
+                str += " Number is below zero";
+                return false;
+            }
+            else if (result > high)
+            {
+                str += " Number is above" + high;
                 return false;
             }
             else
@@ -59,7 +64,7 @@ namespace Homework1v3
             Decimal.TryParse(str, out result);
             if (result < 0)
             {
-                str += "Number is less than zero";
+                str += " Number is less than zero";
                 return false;
             }
             else

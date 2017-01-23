@@ -119,8 +119,14 @@ namespace Homework1v3
         private bool isValidData()
         {
             return Validator.IsPresent(ref EmployeeInfo[0]) &&
-                Validator.CheckRange(ref EmployeeInfo[1], 0, 60) &&
-                Validator.CheckNegative(ref EmployeeInfo[2]) &&
+                Validator.IsPresent(ref EmployeeInfo[1])&&
+                Validator.IsPresent(ref EmployeeInfo[2])&&
+                Validator.IsPresent(ref EmployeeInfo[3])&&
+                Validator.IsPresent(ref EmployeeInfo[4])&&
+                Validator.IsPresent(ref EmployeeInfo[5])&&
+                Validator.CheckRange(ref EmployeeInfo[1], 0, 60)&&
+                Validator.CheckNegative(ref EmployeeInfo[2])&&
+                Validator.CheckNegative(ref EmployeeInfo[3])&&
                 Validator.CheckRange(ref EmployeeInfo[5], 0, 20) &&
                 Validator.CheckRelationshipStatus(ref EmployeeInfo[4]);
         }
@@ -132,7 +138,7 @@ namespace Homework1v3
         public void WriteGoodDataToFile()
         {
 
-            System.IO.StreamWriter file = new System.IO.StreamWriter("OutPayrolldaterun.txt",true);
+            System.IO.StreamWriter file = new System.IO.StreamWriter("OutPayrolldaterun.txt", true);
             file.WriteLine(empOut);
             file.Close();
 
